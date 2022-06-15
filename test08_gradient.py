@@ -11,4 +11,4 @@ cv2.imshow("laplacian", laplacian)
 cv2.imshow("canny", canny)
 
 cv2.waitKey()
-
+cv2.destroyAllWindows()

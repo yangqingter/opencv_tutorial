@@ -16,3 +16,4 @@ cv2.imshow("dilation", dilation)
 
 
 cv2.waitKey()
+cv2.destroyAllWindows()

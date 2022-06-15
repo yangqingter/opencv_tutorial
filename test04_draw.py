@@ -11,3 +11,4 @@ cv2.putText(image, "hello", (100, 50), 0, 1, (255, 255, 255), 2, 1)
 
 cv2.imshow("image", image)
 cv2.waitKey()
+cv2.destroyAllWindows()

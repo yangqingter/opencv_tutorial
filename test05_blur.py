@@ -11,4 +11,4 @@ cv2.imshow("gauss", gauss)
 cv2.imshow("median", median)
 
 cv2.waitKey()
-
+cv2.destroyAllWindows()

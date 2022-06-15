@@ -18,5 +18,6 @@ for p in zip(*locations[::-1]):
 
 cv2.imshow("image", image)
 cv2.waitKey()
+cv2.destroyAllWindows()
 
 

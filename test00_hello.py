@@ -9,4 +9,4 @@ print(image.shape)
 
 cv2.imshow("image", image)
 cv2.waitKey()
-
+cv2.destroyAllWindows()

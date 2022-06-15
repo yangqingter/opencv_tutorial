@@ -7,3 +7,4 @@ crop = image[10:170, 40:200]
 
 cv2.imshow("crop", crop)
 cv2.waitKey()
+cv2.destroyAllWindows()

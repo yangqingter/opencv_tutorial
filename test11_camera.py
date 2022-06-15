@@ -11,4 +11,4 @@ while True:
         break
 
 capture.release()
-
+cv2.destroyAllWindows()
